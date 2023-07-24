@@ -2,10 +2,6 @@
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-## Welcome to Humara's GitHub Introduction Class!
-
-🎉 Congratulations on embarking on your GitHub journey! In this class, we will cover the fundamentals of creating new files, using capital letters, and writing READMEs on GitHub - essential skills for any developer or team collaborating on projects. 🚀
-
 ## What is GitHub?
 
 GitHub is a powerful platform that empowers developers like you to collaborate on software projects, share code, and work together seamlessly. It utilizes Git, a distributed version control system, to keep track of changes made to your code over time.
